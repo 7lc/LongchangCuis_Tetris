@@ -7,7 +7,7 @@
     <img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot3.png" width="20%">
 </div>
 
-**Overview:**
+## Overview
 
 Longchang Cui's Tetris game is made with Unity and it is production-ready. I implemented the Super Rotation System for the tetromino movement. Players can use advanced techniques like the T-Spin movement to get extra reward points in the game. The current build supports "Hold Piece" and "Show Next Piece" features. Scoring systems and level systems are also included in the game. The game will become more challenging as the player scores more points. Furthermore, I added sound effects, particle effects, UI animations, and royalty-free game music to improve the user experience. The plugins, sample code, and assets that I used in the game development are listed in the reference section.
 
