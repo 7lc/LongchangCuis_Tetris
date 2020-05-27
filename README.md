@@ -12,6 +12,10 @@
 Longchang Cui's Tetris game is made with Unity and it is production-ready. I implemented the Super Rotation System for the tetromino movement. Players can use advanced techniques like the T-Spin movement to get extra reward points in the game. The current build supports "Hold Piece" and "Show Next Piece" features. Scoring systems and level systems are also included in the game. The game will become more challenging as the player scores more points. Furthermore, I added sound effects, particle effects, UI animations, and royalty-free game music to improve the user experience. The plugins, sample code, and assets that I used in the game development are listed in the reference section.
 
 **Development Environment:**
+WARNING! Importing the project with different Unity versions and different OS systems may cause errors. 
+Comment: I used Mac OS with Unity version 2019.3.7f1 to open the project, but it failed to import the correct package. I also tried opening the project with Unity version 2019.3.14 on Mac, this time Unity successfully opened the project without any errors.
+
+To minimize the error, please use the following settings to open the project.
 
 Unity Version: 2019.3.7f1
 
