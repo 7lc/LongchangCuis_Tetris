@@ -39,13 +39,26 @@ The default project build is Android.
 
 
 **Game Demo Video**
+
 (1 minute T-Spin and Level Up demo video)
+
 https://youtu.be/Ls7VJbtVPyI
 
 
 **Game Controls:**
 
 The project supports both desktop keyboard and mobile touch inputs.
+
+|  |Keyboard | Touch Control |
+|--|--|--|
+| Move Down| Down Arrow | Tap bottom region of the screen |
+| Move Right|Right Arrow | Tap right region of the screen|
+|Move Left|Left Arrow| Tap left region of the screen
+|Hard Drop|Up Arrow|Swipe Down
+|90 Degree Left Rotate| X| Swipe Left
+|90 Degree Right Rotate|C| Swipe Right
+|Hold Tetromino|Z|Swipe Up
+
 
 
 Game Controls:
