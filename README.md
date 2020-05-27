@@ -195,7 +195,7 @@ Clicking "Credit" button will show the developer's name.
     PanelController.cs
 > Controls the scale of the top panel UI. Auto-adjust the panel size based on different screen's aspect ratio.
 
-# References:
+# References
 
 **Game Scene Background Music:**
 
