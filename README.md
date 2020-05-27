@@ -68,7 +68,7 @@ The project supports both desktop keyboard and mobile touch inputs.
 
 
 
-# WorkFlow
+# Workflow
 
  <h3>Requirements:</h3>
  
