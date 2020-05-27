@@ -2,9 +2,9 @@
 <p>The Tetris project is developed for personal use only.</p>
 
 <div class="row" style="padding-right: 20px;">
-<img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot1.png" width="20%">
-<img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot2.png" width="20%">
-<img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot3.png" width="20%">
+    <img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot2.png" width="20%">
+    <img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot1.png" width="20%">
+    <img src="https://github.com/7lc/LongchangCuis_Tetris/blob/master/screenshot3.png" width="20%">
 </div>
 
 **Overview:**
