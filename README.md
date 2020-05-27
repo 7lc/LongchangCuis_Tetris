@@ -2,8 +2,10 @@
 <p>The tetris project is developed for personal use only.</p>
 
 
-Overview:
-The Tetris project is developed for personal usage only.
+**Overview:**
+
+The Tetris game is production ready. 
+
 
 Development Environment:
 Unity Version: 2019.3.7f1
