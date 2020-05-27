@@ -175,7 +175,7 @@ Clicking "Credit" button will show the developer's name.
     TetrominoBlockController.cs
 > Handles single tetromino block movement and rotation.
   
-      SuperRotationSystemData.cs
+    SuperRotationSystemData.cs
 > Contains each tetromino types Super Rotation System offset data. The offset data is used for super rotation, such as T-Spin.
 
 **ScoreSystem:**
