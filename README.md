@@ -11,27 +11,42 @@
 
 Longchang Cui's Tetris game is made with Unity and it is production-ready. I implemented the Super Rotation System for the tetromino movement. Players can use advanced techniques like the T-Spin movement to get extra reward points in the game. The current build supports "Hold Piece" and "Show Next Piece" features. Scoring systems and level systems are also included in the game. The game will become more challenging as the player scores more points. Furthermore, I added sound effects, particle effects, UI animations, and royalty-free game music to improve the user experience. The plugins, sample code, and assets that I used in the game development are listed in the reference section.
 
+**Development Environment:**
 
-
-Development Environment:
 Unity Version: 2019.3.7f1
 Windows version: Windows 10
-Plugins: 
-	UniRx
-	DOTween
+Plugins:
+ - UniRx
+ - DOTween
 
-Project Platforms:
+
+**Supported Platforms:**
+
 The project is primarily built for Android and iOS mobile devices.
-The game works best on the device that has the following aspect ratio.
+The game works best on mobile devices that have the following aspect ratio.
 
-Supported Aspect Ratio: 
-16:9,  18:9,   18:10,   19.5:9,   20:9
+ - 16:9
+ - 18:9
+ - 18:10
+ - 19.5:9
+ - 20:9
 
-Project Setting:
-The default project build is an android.
+The desktop keyboard controls are supported as a default feature. You can easily switch the build version in Unity to play the game in PC or Mac.
 
-Game Demo Video in Unity Editor
+**Project Setting:**
+
+The default project build is Android.
+
+
+**Game Demo Video**
+(1 minute T-Spin and Level Up demo video)
 https://youtu.be/Ls7VJbtVPyI
+
+
+**Game Controls:**
+
+The project supports both desktop keyboard and mobile touch inputs.
+
 
 Game Controls:
 The project supports both desktop keyboard and mobile touch inputs.
