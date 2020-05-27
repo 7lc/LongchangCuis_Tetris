@@ -14,7 +14,9 @@ Longchang Cui's Tetris game is made with Unity and it is production-ready. I imp
 **Development Environment:**
 
 Unity Version: 2019.3.7f1
+
 Windows version: Windows 10
+
 Plugins:
  - UniRx
  - DOTween
@@ -38,7 +40,7 @@ The desktop keyboard controls are supported as a default feature. You can easily
 The default project build is Android.
 
 
-**Game Demo Video**
+**Game Demo Video:**
 
 (1 minute T-Spin and Level Up demo video)
 
@@ -60,30 +62,6 @@ The project supports both desktop keyboard and mobile touch inputs.
 |Hold Tetromino|Z|Swipe Up
 
 
-
-Game Controls:
-The project supports both desktop keyboard and mobile touch inputs.
-
-Keyboard Controls:
-Move Down: Press down arrow
-Move Right:  Press right arrow
-Move Left:    Press left arrow
-Hard Drop:  Press up arrow
-90 Degree Left Rotate: Press X key
-90 Degree Right Rotate: Press C key
-Hold Tetromino: Press Z key
-
-Touch Controls:
-Move Down: Tap bottom region of the screen
-Move Right:  Tap right region of the screen
-Move Left:    Tap left region of the screen
-Hard Drop:  Swipe down
-90 Degree Left Rotate: Swipe left
-90 Degree Right Rotate: Swipe right
-Hold Tetromino: Swipe up
-
-Comment:
-Some of the sound files, music, and images are from the internet. The authors are credited in the reference section.
 
 Work Flow
 CIE Interview Requirements:
