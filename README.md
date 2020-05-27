@@ -61,7 +61,7 @@ The project supports both desktop keyboard and mobile touch inputs.
 |90 Degree Right Rotate|C| Swipe Right
 |Hold Tetromino|Z|Swipe Up
 
-
+<img src = "https://media.githubusercontent.com/media/7lc/LongchangCuis_Tetris/master/Tetris_TouchTutorial.png" width="25%"></img>
 
 Work Flow
 CIE Interview Requirements:
